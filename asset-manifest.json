@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/diego-FE-HEALTHALYSIS/static/css/main.6649e740.chunk.css",
-    "main.js": "/diego-FE-HEALTHALYSIS/static/js/main.1fe9bb6c.chunk.js",
-    "main.js.map": "/diego-FE-HEALTHALYSIS/static/js/main.1fe9bb6c.chunk.js.map",
+    "main.js": "/diego-FE-HEALTHALYSIS/static/js/main.c28eebe7.chunk.js",
+    "main.js.map": "/diego-FE-HEALTHALYSIS/static/js/main.c28eebe7.chunk.js.map",
     "runtime-main.js": "/diego-FE-HEALTHALYSIS/static/js/runtime-main.3aff429f.js",
     "runtime-main.js.map": "/diego-FE-HEALTHALYSIS/static/js/runtime-main.3aff429f.js.map",
     "static/css/2.e13c94f7.chunk.css": "/diego-FE-HEALTHALYSIS/static/css/2.e13c94f7.chunk.css",
@@ -51,6 +51,6 @@
     "static/css/2.e13c94f7.chunk.css",
     "static/js/2.8625d97e.chunk.js",
     "static/css/main.6649e740.chunk.css",
-    "static/js/main.1fe9bb6c.chunk.js"
+    "static/js/main.c28eebe7.chunk.js"
   ]
 }
